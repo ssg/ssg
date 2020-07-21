@@ -10,7 +10,7 @@ but I have a couple of hobby open source projects that are slightly more popular
  - [TurkishId](https://github.com/ssg/TurkishId): Turkish citizenship ID number validator for .NET
 
 ### .text
-I'm writing about programming on Medium with the handle [@ssg](https://medium.com/ssg).
+I'm writing about programming on Medium with the handle [@ssg](https://medium.com/@ssg).
 My Twitter is [@esesci](https://twitter.com/esesci).
 
 ### .contact
