@@ -1,16 +1,17 @@
-### Hi there 👋
+### .init
+Hi, I'm Sedat Kapanoglu. I've been writing programs since I was 9 years old. Some 
+of my professional background is listed on my LinkedIn [profile](https://www.linkedin.com/in/kapanoglu/).
 
-<!--
-**ssg/ssg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .code
+I use GitHub mostly as a sandbox to play as well as an archive for my old projects 
+but I have a couple of hobby open source projects that are slightly more popular:
+ - [SimpleBase](https://github.com/ssg/SimpleBase): BaseXxx encoder/decoder library for .NET
+ - [HashDepot](https://github.com/ssg/HashDepot): Implementation of unconventional hash functions for .NET
+ - [TurkishId](https://github.com/ssg/TurkishId): Turkish citizenship ID number validator for .NET
 
-Here are some ideas to get you started:
+### .text
+I'm writing about programming on Medium with the handle [@ssg](https://medium.com/ssg).
+My Twitter is [@esesci](https://twitter.com/esesci).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### .contact
+You can reach me at [sedat@kapanoglu.com](mailto:sedat@kapanoglu.com).
