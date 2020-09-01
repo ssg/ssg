@@ -11,7 +11,7 @@ but I have a couple of hobby open source projects that are slightly more popular
 
 ### .text
 I'm writing about programming on Medium with the handle [@ssg](https://medium.com/@ssg).
-My Twitter is [@esesci](https://twitter.com/esesci).
+My Twitter is [@esesci](https://twitter.com/esesci). I also answer questions on [StackOverflow](https://stackoverflow.com/users/54937/sedat-kapanoglu?tab=profile) and [Quora](https://www.quora.com/profile/Sedat-Kapanoglu).
 
 ### .contact
 You can reach me at [sedat@kapanoglu.com](mailto:sedat@kapanoglu.com).
