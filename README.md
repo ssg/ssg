@@ -3,7 +3,7 @@ Hi, I'm Sedat! I've been writing programs since I was 9 years old. Some
 of my professional background is listed on my LinkedIn [profile](https://www.linkedin.com/in/kapanoglu/).
 
 ### .text
-I'm writing a book called [Street Coder](https://www.manning.com/books/street-coder) for beginner/medium-level programmers. I blog about mostly programming on Medium with the handle [@ssg](https://medium.com/@ssg). My Twitter is [@esesci](https://twitter.com/esesci). I also answer questions on [StackOverflow](https://stackoverflow.com/users/54937/sedat-kapanoglu?tab=profile) and [Quora](https://www.quora.com/profile/Sedat-Kapanoglu).
+I'm writing a book called [Street Coder](https://streetcoder.org) for beginner/medium-level programmers. I blog about mostly programming on Medium with the handle [@ssg](https://medium.com/@ssg). My Twitter is [@esesci](https://twitter.com/esesci). I also answer questions on [StackOverflow](https://stackoverflow.com/users/54937/sedat-kapanoglu?tab=profile) and [Quora](https://www.quora.com/profile/Sedat-Kapanoglu).
 
 ### .code
 I use GitHub mostly as a sandbox to play as well as an archive for my old projects 
