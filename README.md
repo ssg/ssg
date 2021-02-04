@@ -11,6 +11,3 @@ but I have a couple of hobby open source projects that are slightly more popular
  - [SimpleBase](https://github.com/ssg/SimpleBase): BaseXxx encoder/decoder library for .NET
  - [HashDepot](https://github.com/ssg/HashDepot): Implementation of unconventional hash functions for .NET
  - [TurkishId](https://github.com/ssg/TurkishId): Turkish citizenship ID number validator for .NET
-
-### .contact
-You can reach me at [sedat@kapanoglu.com](mailto:sedat@kapanoglu.com).
