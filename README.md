@@ -2,7 +2,7 @@
 Hi, I'm Sedat! I've been writing programs since I was 9 years old. I'm a self-taught programmer who later worked at Microsoft Windows Core OS Division as a Software Engineer. My LinkedIn [profile](https://www.linkedin.com/in/kapanoglu/) has more details.
 
 ### .text
-📙I've written a book called [Street Coder](https://streetcoder.org) for beginner/medium-level programmers. 
+📙I've written the book [Street Coder](https://streetcoder.org) for beginner/medium-level programmers. 
 
 📃I blog about mostly programming at [ssg.dev](https://ssg.dev).
 
