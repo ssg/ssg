@@ -8,9 +8,9 @@ Hi, I'm Sedat! I've been writing programs since I was 9 years old. I'm a self-ta
 ### .code
 I use GitHub mostly as a sandbox to play as well as an archive for my old projects, 
 but I have a couple of hobby open source projects that are slightly more popular:
- - [SimpleBase](https://github.com/ssg/SimpleBase): BaseXxx encoder/decoder library for .NET. It's used in popular projects like Net-dns, Ipfs.Core, 
- - [HashDepot](https://github.com/ssg/HashDepot): Implementation of unconventional hash functions for .NET
- - [TurkishId](https://github.com/ssg/TurkishId): Turkish citizenship ID number validator for .NET
+ - [SimpleBase](https://github.com/ssg/SimpleBase): BaseXxx encoder/decoder library for .NET. It's used in projects like Net-dns and Ipfs.Core. 
+ - [HashDepot](https://github.com/ssg/HashDepot): Implementation of unconventional hash functions for .NET. It's used in Unity3D DOTS and Apache Pulsar.
+ - [TurkishId](https://github.com/ssg/TurkishId): Turkish citizenship ID number validator for .NET.
 
 ### .hist
 I started writing programs on a borrowed [Sinclair ZX Spectrum+](https://en.wikipedia.org/wiki/ZX_Spectrum#ZX_Spectrum+). My parents later bought me an [Amstrad CPC464](https://en.wikipedia.org/wiki/Amstrad_CPC_464) on which I taught myself BASIC and Z80 Assembly. I switched to PC by working on a [IBM PS/2 Model 30 286](https://en.wikipedia.org/wiki/IBM_PS/2_Model_30) secretly in the computing department of Anadolu University campus while still studying high school. I learned Turbo Pascal and OOP during that time. I failed university entrance exams, and started working professionally at a software company immediatey after my high school graduation.
