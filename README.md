@@ -17,7 +17,7 @@ I started writing programs on a borrowed [Sinclair ZX Spectrum+](https://en.wiki
 
 - I developed many shareware and commercial applications in the 90's. In fact, PC World Magazine in Turkey released a Floppy Disk called "Alaturka '96 - Top 10 Turkish Shareware" in 1996, and [six of the software included were written by me](https://twitter.com/esesci/status/1137479395650596864).
 - I won 1st place award in Altin Disket (Golden Floppy Disk) '94 competition organized by Microsoft and PC World Magazine with my file manager called "Baston" that [resembled Windows Explorer](https://user-images.githubusercontent.com/241217/159136746-e05f6e95-eaca-4dc3-9dcd-ddd7aa2a0478.png) before it was a thing.
-- I got 3rd place among 38 teams by myself in Middle East Technical University Programming Contest in the 90's. I was studying Economics at the time, so that was the only time an Economics student made degree in the contest.
+- I got 3rd place among 38 teams by myself in Middle East Technical University Programming Contest in the 90's. I was studying Economics at the time, so that was the only time an Economics student got a high ranking in such a contest.
 - I wrote one of the earliest e-commerce applications in Turkey called CyberShop in 1995 for BBS systems that allowed SysOps to sell merchandise and users to sell their own stuff.
 - I have so many failed projects that one of my talks that I recount my failures takes more than an hour. A partial Turkish transcript can be found [here](https://blog.etohum.com/p/eksisozlukun-kurulus-hikayesini-biliyor-musunuz).
 - I also wrote one of the earliest incantations of a "Facebook-like" service in the 90's called "HiTBase" that let you find other people based on criteria you gave to connect with them.
