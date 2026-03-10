@@ -1,5 +1,5 @@
 ### .init
-Hi, I'm Sedat! I've been writing programs since I was nine. I'm a self-taught programmer who later worked at Microsoft Windows Core OS Division as a Software Engineer. My LinkedIn [profile](https://www.linkedin.com/in/kapanoglu/) has more details.
+Hi, I'm Sedat! I've been writing programs since I was nine years old. I'm a self-taught programmer who later worked at Microsoft Windows Core OS Division as a Software Engineer. My LinkedIn [profile](https://www.linkedin.com/in/kapanoglu/) has more details.
 
 ### .text
 - 📙I wrote [Street Coder](https://streetcoder.org). It's a book that teaches unconventional perspectives to beginner/mid-level programmers. 
